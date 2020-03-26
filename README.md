@@ -8,5 +8,5 @@
 
 # Debug Commands
 * Compile Rust: `./setup.sh`
-* Run Python: python3 python_code/main.py
+* Run Python: `python3 python_code/main.py`
 
